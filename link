@@ -1,11 +1,23 @@
-<html>
-<body>
-
-<h2>The href Attribute</h2>
-<p>HTML links are defined with the a tag. The link address is specified in the href attribute:</p>
-
-<a href="https://github.com/">This is a link</a>
-
-</body>
-</html>
-
+<table>
+<thead>
+<tr>
+ <th>Month</th>
+ </tr>
+</thead>
+<tbody>
+ <tr>
+  <td>january</td>
+  <td>$100</td>
+</tr>
+<tr>
+<td>February</td>
+<td>$80</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+ <td>Sum</td>
+ <td>$180</td>
+</tr>
+</tfoot>
+</table>

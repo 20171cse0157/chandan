@@ -3,7 +3,14 @@
 <title>Resume</title>
 </head>
 <body>
+<ins>hi bro</ins>
+<bdo dir="rtl"> 
+fjolhfhol
+</bdo>
+<q> khkishgif </q>
+<address> fgthyh </address>
 <h1 align="center">chandan.R<hr></h1>
+<img src="/home/6CSE3/Downloads/y.jpeg" width="250" height="200" border="3" align="left" >
 <p align="center">Anchorage,Ak *(555)67868*chandan313@gmail.com. </p>
 <h2>Professional Summary</h2>
 <p>With extensive experience in the commercial utilisation of multiple social media channels including Facebook, Twitter and YouTube; I build successful social strategies that increase brand awareness, promote customer engagement and ultimately drive web traffic and conversions. With a degree in psychology and strong business acumen, I bring a customer focused approach to online and social marketing.</p>
@@ -40,11 +47,17 @@
 <li>Self.</li>
 <li>Resolution.</li>
 </ul>
+<small>FUNNY FELLOW</small>
 <h2>Education</h2>
 </ul>
 <li>sslc</li>
 <li>PU</li>
-<li>B.tech in CSE</li>
+<li>B.tech in CSE</li> 
+<a href="https://github.com/">This is a link</a> <br/>
+<a href="https://www.presidencyuniversity.in">This is a link</a> </br>
+<a href=#edu>My education</a> <br/>
+<a href="mailto:abc@gmail.com">sent mail</a> </br>
+<a href="https://github.com/20171cse0148/20171cse0148/tree/master">This is a link</a> </br>
 </ul>
 </body>
 </html>

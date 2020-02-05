@@ -1,0 +1,14 @@
+<html>
+<head>
+ <title>HTML Frames</title>
+</head>
+<frameset rows="30%,50%,20%">
+ <frameset cols=50%,50%">
+<frame src="/home/6CSE3/Downloads/y.jpeg"/>
+<frame src="/home/6CSE3/Downloads/index.jpeg"/>
+</frameset>
+
+<frame src="/home/6CSE3/Downloads/y.jpeg"/>
+<frame src="/home/6CSE3/Downloads/index.jpeg"/>
+</frameset>
+</html>
