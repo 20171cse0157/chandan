@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>HTML iframes</title>
+</head>
+<body>
+<p>Documents..
+tag.any web link.
+</p>
+<marquee direction="right"> Chandan.R
+</marquee>
+<h1 style="color:blue;">20171cse0157</h1>
+<h1 style="text-allign:center;">6cse3</h1>
+<h2 style="background-color:rgb(255,99,255);"..CSE...</h2>
+<p> <img src="smiley.gif" alt="Smiley face"
+style="float:right;width:42px;height:42ps;">
+Jk
+</p>
+<iframe src="/home/6CSE3/Downloads/chandan.jpg" width="555" height="200"> doesnot suppport
+</iframes>
+<p>Document content</p>
+<iframe src="demo_iframe.html
+name="iframe_a"></iframe>
+<p><a href="https://www.google.com"
+target="iframe_a">Load new web page</a></p>
+</body>
+</html>
+
