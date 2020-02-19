@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+h2>i{
+ color:#00FF00;
+}
+</style>
+</head>
+<h2>SAMPLE</h2>
+<body>
+<h2> Education <i>is important</i></h2>
+<p> class="green"> thkhfkhlhlhlfd<i> lhflkhl lkhlf</i> ljhd ldkljglkh
+<p> khbkedf jhkfd uhfdhgkf jdkjdf ndfkhkd hgk</p>
+h1,h2,h3{
+color:#36C;
+font-weight:normal;
+}
+</body>
+</html>
