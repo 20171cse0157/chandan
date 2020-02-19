@@ -1,0 +1,91 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body style="background-color: #bdc01e ;">
+</body>
+<img src ="/home/6CSE3/Downloads/chandan.jpg" align="right" border= "3" width="07%"
+      style="float:right">
+<right><h1><font size="2">Chandan R</font></h1></right>
+<right><p><font size="2">chandanraghu313@gmail.com</font></p></right>
+<right>+91-9686700413</right>
+<body>
+<hr size="1" color="black">
+<p><b>Cv Highlights</b></p>
+<ul>
+<li>With 15+ years of experience in python programming</li>
+<li>Proficient in standard UX and abcdef software</li>
+<li>With specific knowledge of interface patterns for mobile.</li>
+<li>With good understanding of HTML,python,C,JAVA</li>
+</ul>
+<hr size="1" color="black">
+<p><b>Professional Experience</b> <p>
+<p><b>Wingly software solutions</b></p>
+<ul>
+<li>Trader Joe's. I've always been a big fan of Trader Joe's, which, if you're unfamiliar, is a specialty and privately owned grocery chain</li>
+<li>Rackspace.</li>
+<li> Great service comes to us across all industries</li>
+<li>Carlton</li>
+</ul>
+<hr size="1" color="black">
+<a name="edu"><u><h3>Education</h3></u></a>
+<style>
+td,th{
+border: 1px solid #dddddd;
+text-align: center;
+padding: 8px;}
+a{
+font-weight: bold;
+font-family: verdana;
+}
+
+</style>
+<table border = "1" width = "100%">
+         <tr>
+            <th>Degree</th>
+            <th>School/College</th>
+    	    <th>Year of Passing</th>
+    	    <th>Percentage</th>
+	    
+         </tr>
+         <tr>
+            <td>10th</td>
+            <td>K. Kamraj</td>
+	    <td>2015</td>
+            <td>75</td>
+         </tr>
+         
+         <tr>
+            <td>12th</td>
+            <td>BGS International</td>
+ 	    <td>2017</td>
+            <td>75</td>
+         </tr>
+
+         <tr>
+            <td>B.Tech</td>
+            <td>Presidency University</td>
+ 	    <td>2021</td>
+            <td>75</td>
+         </tr>
+      </table>
+<u><h3>Independent Course</h3></u>
+<div>
+<UL TYPE="SQUARE"><Li>HTML</li>
+<Li>Java</li>
+<Li>PHYTHON</li></font></p>
+</div>
+<div>
+<hr size="1" color="black">
+<h4>Technical skills</h4>
+<UL TYPE="SQUARE"><Li>Operating System</li>
+<Li>Application Software.</li>
+<Li>Programing Language</li></font></p>
+</div>
+<hr size="1" color="black">
+<u><h3>Certificates and awards</h3></u>
+<p><ul TYPE="SQUARE"><li>IP Sarjapur</li></ul
+
+</ul>
+</body>
+</html>
