@@ -1,0 +1,94 @@
+<html>
+<head>
+<title>Resume</title>
+<link rel="stylesheet" type="text/css" href="/home/6CSE3/mystyle.css"/>
+</head>
+<body style="background-image:url('index5.jpeg')">
+<img src="/home/6CSE3/20171cse0157/index6.jpeg" align="right" alt="" style="float:right;width:70px;height:70px;"></a>
+<p><b>CHAITHANYA</b></p>
+<p>phone no:1234567899<p>
+e-mail:<a href="mailto:201710100330@gmail.com">201710100330@gmail.com </a>
+<hr>
+<h2> EDUCATION <i> is impt </i></h2>
+<h1> this is africa...!!! </h1>
+<h3> this is sparta...!!!</h3>
+<font size="7" color= "font:lightblue;">PROFESSIONAL SUMMARY</font>
+<p>With extensive experience in the commercial utilisation of multiple social media channels including Facebook, Twitter and YouTube; I build successful social strategies that increase brand awareness, promote customer engagement and ultimately drive web traffic and conversions. With a degree in psychology and strong business acumen, I bring a customer focused approach to online and social marketing.</p>
+<hr>
+<font size="7" color= "font:lightblue;">WORK HISTORY</font>
+<ul><b>Senior machanizer</b>-10/12/2016 
+<ul>
+<li>With 15+ years of experience in python programming</li>
+<li>Proficient in standard UX and abcdef software</li>
+<li>With specific knowledge of interface patterns for mobile.</li>
+<li>With good understanding of HTML,python,C,JAVA</li>
+</ul>
+</ul>
+<ul><b>Machanizer</b>-30/1/2016
+<ul> 
+<li> Marketing Intern, Resume Revolution Inc., Cunningham Springs, CO, 2015 to 2016.Designed the content management strategy which increased readership by 60% in 2 months.Increased revenue by 12% over 6 months 	 </li>
+<li>Volunteer Marketer, Charity Books Store, Portland, OR, 2010 to 2013  Prepared 30+ monthly newsletters.Created and administered the store and web site.Visual merchandising.</li>
+<li>Writer and Translator, Freelance, Portland, OR, 2010 to 2015 - Wrote 500+ blog articles for clients from tech and food industries.</li>
+</ul>
+</ul>
+
+<ul><b>Customer services</b>-3/12/2016
+<ul>
+<li>Trader Joe's. I've always been a big fan of Trader Joe's, which, if you're unfamiliar, is a specialty and privately owned grocery chain</li>
+<li>Rackspace.</li>
+<li> Great service comes to us across all industries</li>
+<li>Carlton</li>
+</ul>
+</ul>
+<hr>
+<font size="7" color= "font:lightblue;">SKILLS</font>
+<li> Team player</li>
+<li> Good listener</li>
+<li> Time Management</li>
+<hr>
+<font size="7" color= "font:lightblue;">EDUCATION</font>
+</ul>
+<li>10th</li>
+<li>PU</li>
+<li>B.tech in CSE</li>
+
+
+</style>
+</head>
+<body>
+<h2MARKS OBTAINED</h2>
+<table style="width:100%">
+  <tr>
+    <th>10</th>
+    <th>PUC</th> 
+    <th>B.Tech</th>
+  </tr>
+  <tr>
+    <td align="center">88</td>
+    <td>89</td>
+    <td>90</td>
+  </tr>
+  <tr>
+    <td>88</td>
+    <td>99</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>87</td>
+    <td>88</td>
+    <td>80</td>
+  </tr>
+</table>
+</ul>
+<hr>
+<font size ="7" color="font:lightblue">ADDRESS</font>
+<address> Bengaluru</address>
+<p id="parag"> this is an example for id selectors</p>
+<p class="cls">this is an example for class selectors</p>
+
+<hr>
+<br>
+<br>
+<br>
+</body>
+</html>
