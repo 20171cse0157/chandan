@@ -1,0 +1,8 @@
+<html>
+<head>
+<link rel="stylesheet" href="margin.css">
+</head>
+<body>
+<p class="solid"><background-color:grey>home  content  about </p>
+</body>
+</html>
